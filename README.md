@@ -2,9 +2,9 @@
 
 **My fav music:**
 
-(Link)[http://mel1.herokuapp.com/search/hvtrs8%2F-wuw%2Cymuvu%60e%2Ccmm-wctah%3Dv%3FmDkkepcgyNQ/]
-(Link)[http://mel1.herokuapp.com/search/hvtrs8%2F-wuw%2Cymuvu%60e%2Ccmm-wctah%3Dv%3FC%5DsCwsfIieg/]
-(Link)[http://mel1.herokuapp.com/search/hvtrs8%2F-wuw%2Cymuvu%60e%2Ccmm-wctah%3Dv%3FP3mqcp1EmwM/]
+(Link[http://mel1.herokuapp.com/search/hvtrs8%2F-wuw%2Cymuvu%60e%2Ccmm-wctah%3Dv%3FmDkkepcgyNQ/])
+(Link[http://mel1.herokuapp.com/search/hvtrs8%2F-wuw%2Cymuvu%60e%2Ccmm-wctah%3Dv%3FC%5DsCwsfIieg/])
+(Link[http://mel1.herokuapp.com/search/hvtrs8%2F-wuw%2Cymuvu%60e%2Ccmm-wctah%3Dv%3FP3mqcp1EmwM/])
 
 **Well here are some things about me:**
 
