@@ -13,7 +13,7 @@
 - I'm working on Anime Co and Mellie and more.
 
 ## Main Project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NevaehAnimeLover&repo=MelliePlay&theme=synthwave)](https://github.com/NevaehAnimeLover/MelliePlay)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NevaehAnimeLover&repo=MelliePlay&theme=synthwave)](https://github.com/FxckingAngel/MelliePlay)
 
 ## Stats
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=FxckingAngeln&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=FxckingAngel&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
