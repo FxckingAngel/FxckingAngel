@@ -11,6 +11,14 @@
 - I mostly go by mika now! 
 - I like watching anime, I watch it alot I mean alot.
 - I'm working on Anime Co and Mellie and more.
+## Known languages
+![Lua](https://img.shields.io/badge/Lua-blue.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Luau](https://img.shields.io/badge/Luau-blue.svg?style=for-the-badge&logo=luau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange.svg?style=for-the-badge&logo=java&logoColor=white)
+
+Additional known languages but with lesser knowledge about it: C, C#, C++
 
 ## Main Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FxckingAngel&repo=MelliePlay&theme=synthwave)](https://github.com/FxckingAngel/MelliePlay)
