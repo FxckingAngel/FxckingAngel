@@ -1,5 +1,5 @@
 # Fxcking Angel <img src="https://raw.githubusercontent.com/NevaehAnimeLover/NeavehAnimeLover/main/download%20(5).jpeg" width="250" align="right"><img>
-<!-- ![Discord](https://discord.c99.nl/widget/theme-3/390690088348024843.png) -->
+<!-- ![Discord]( https://discord.c99.nl/widget/theme-2/390690088348024843.png) -->
 <a href="https://discord.com/users/390690088348024843">
 <img src=" https://discord.c99.nl/widget/theme-2/390690088348024843.png" alt="Discord"/>
 </a>
