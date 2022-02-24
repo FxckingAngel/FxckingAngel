@@ -1,5 +1,8 @@
 # Fxcking Angel <img src="https://raw.githubusercontent.com/NevaehAnimeLover/NeavehAnimeLover/main/download%20(5).jpeg" width="250" align="right"><img>
-
+<!-- ![Discord](https://discord.c99.nl/widget/theme-3/725945760629129277.png) -->
+<a href="https://discord.com/users/390690088348024843">
+<img src="https://discord.c99.nl/widget/theme-3/390690088348024843.png" alt="Discord"/>
+</a>
 **My fav music:**
 
 [Link](http://mel1.herokuapp.com/search/hvtrs8%2F-wuw%2Cymuvu%60e%2Ccmm-wctah%3Dv%3FmDkkepcgyNQ/)
@@ -24,4 +27,5 @@ Additional known languages but with lesser knowledge about it: C, C#, C++
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FxckingAngel&repo=MelliePlay&theme=synthwave)](https://github.com/FxckingAngel/MelliePlay)
 
 ## Stats
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=FxckingAngel&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=DeltaCoderr&theme=dracula&count_private=true"></div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=firedragonplayz&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiredragonPlayz&theme=tokyonight&hide=batchfile">
