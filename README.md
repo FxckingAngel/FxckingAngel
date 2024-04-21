@@ -28,7 +28,7 @@
 Additional known languages but with lesser knowledge about it: C, C#, C++
 
 ## Main Project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FxckingAngel&repo=MelliePlay&theme=synthwave)](https://github.com/FxckingAngel/MelliePlay)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FxckingAngel&repo=MelliePlay-Frontend&theme=synthwave)](https://github.com/FxckingAngel/MelliePlay)
 
 ## Stats
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=FxckingAngel&theme=dracula&count_private=true"></div>
