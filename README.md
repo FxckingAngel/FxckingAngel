@@ -55,7 +55,7 @@
 
 ## 🔭 Main Project
 
-[![MelliePlay](https://github-readme-stats.vercel.app/api/pin/?username=FxckingAngel&repo=MelliePlay-Frontend&theme=tokyonight)](https://github.com/FxckingAngel/MelliePlay)
+[![MelliePlay](https://github-readme-stats.vercel.app/api/pin/?username=FxckingAngel&repo=Yulvon&theme=tokyonight)](https://github.com/FxckingAngel/MelliePlay)
 
 ---
 
