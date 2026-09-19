@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" role="img" aria-labelledby="t d">
+  <title id="t">Language and activity stats for FxckingAngel</title>
+  <desc id="d">Bytes of code in original repositories by language: Python 57.9 percent, Rust 33.0, Shell 5.2, HTML 2.2, CSS 1.5, Batchfile 0.1. Also 137 public commits, 31 pull requests opened, 19 merged, 11 public repositories and 6 years on GitHub.</desc>
+  <g font-family="'Courier New',Courier,monospace" fill="#111">
+    <rect width="900" height="300" fill="#f1ece1"/>
+    <rect x="3" y="3" width="894" height="294" fill="none" stroke="#111" stroke-width="6"/>
+
+    <rect x="28" y="26" width="150" height="26" fill="#111"/>
+    <text x="40" y="45" font-size="15" fill="#f1ece1" letter-spacing="3">LANGUAGES</text>
+    <text x="28" y="80" font-size="12">437 KB in original repos. Forks not counted.</text>
+
+    <g font-size="14">
+      <text x="28" y="116">Python</text>
+      <rect x="110" y="103" width="300" height="14" fill="none" stroke="#111" stroke-width="2"/>
+      <rect x="110" y="103" width="173.7" height="14" fill="#e63946"/>
+      <text x="424" y="116">57.9%</text>
+
+      <text x="28" y="146">Rust</text>
+      <rect x="110" y="133" width="300" height="14" fill="none" stroke="#111" stroke-width="2"/>
+      <rect x="110" y="133" width="99" height="14" fill="#111"/>
+      <text x="424" y="146">33.0%</text>
+
+      <text x="28" y="176">Shell</text>
+      <rect x="110" y="163" width="300" height="14" fill="none" stroke="#111" stroke-width="2"/>
+      <rect x="110" y="163" width="15.7" height="14" fill="#111"/>
+      <text x="424" y="176">5.2%</text>
+
+      <text x="28" y="206">HTML</text>
+      <rect x="110" y="193" width="300" height="14" fill="none" stroke="#111" stroke-width="2"/>
+      <rect x="110" y="193" width="6.7" height="14" fill="#111"/>
+      <text x="424" y="206">2.2%</text>
+
+      <text x="28" y="236">CSS</text>
+      <rect x="110" y="223" width="300" height="14" fill="none" stroke="#111" stroke-width="2"/>
+      <rect x="110" y="223" width="4.5" height="14" fill="#111"/>
+      <text x="424" y="236">1.5%</text>
+
+      <text x="28" y="266">Batch</text>
+      <rect x="110" y="253" width="300" height="14" fill="none" stroke="#111" stroke-width="2"/>
+      <rect x="110" y="253" width="3" height="14" fill="#111"/>
+      <text x="424" y="266">0.1%</text>
+    </g>
+
+    <line x1="500" y1="26" x2="500" y2="274" stroke="#111" stroke-width="2" stroke-dasharray="2 6"/>
+
+    <rect x="540" y="26" width="150" height="26" fill="#111"/>
+    <text x="552" y="45" font-size="15" fill="#f1ece1" letter-spacing="3">ACTIVITY</text>
+    <text x="540" y="80" font-size="12">public data, GitHub API, 2026-09-19</text>
+
+    <g font-size="15">
+      <text x="540" y="116">public commits</text>
+      <line x1="740" y1="114" x2="846" y2="114" stroke="#111" stroke-dasharray="1 5"/>
+      <text x="866" y="116" text-anchor="end" font-weight="700">137</text>
+
+      <text x="540" y="156">pull requests opened</text>
+      <line x1="740" y1="154" x2="846" y2="154" stroke="#111" stroke-dasharray="1 5"/>
+      <text x="866" y="156" text-anchor="end" font-weight="700">31</text>
+
+      <text x="540" y="196">pull requests merged</text>
+      <line x1="740" y1="194" x2="846" y2="194" stroke="#111" stroke-dasharray="1 5"/>
+      <text x="866" y="196" text-anchor="end" font-weight="700">19</text>
+
+      <text x="540" y="236">public repos</text>
+      <line x1="740" y1="234" x2="846" y2="234" stroke="#111" stroke-dasharray="1 5"/>
+      <text x="866" y="236" text-anchor="end" font-weight="700">11</text>
+
+      <text x="540" y="276">years on GitHub</text>
+      <line x1="740" y1="274" x2="846" y2="274" stroke="#111" stroke-dasharray="1 5"/>
+      <text x="866" y="276" text-anchor="end" font-weight="700">6</text>
+    </g>
+  </g>
+</svg>

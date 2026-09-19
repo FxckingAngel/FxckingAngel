@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" role="img" aria-labelledby="t d">
+  <title id="t">Korone, FxckingAngel</title>
+  <desc id="d">Manga-style banner: the name Korone in black ink over faint source code, a screentone strip, a red kanji for mystery on a black panel, and a terminal line that reads whoami, unknown.</desc>
+  <defs>
+    <pattern id="tone" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <circle cx="3.5" cy="3.5" r="1.5" fill="#111"/>
+    </pattern>
+    <clipPath id="paper"><polygon points="0,0 520,0 400,240 0,240"/></clipPath>
+  </defs>
+  <rect width="900" height="240" fill="#f1ece1"/>
+  <g clip-path="url(#paper)" font-family="'Courier New',Courier,monospace" font-size="12" fill="#111" opacity="0.1">
+    <text x="14" y="22">while let Some(msg) = rx.recv().await {</text>
+    <text x="14" y="40">    match vault.open(&amp;identity) {</text>
+    <text x="14" y="58">        Ok(env) =&gt; inject(env),</text>
+    <text x="14" y="76">        Err(_) =&gt; std::process::exit(1),</text>
+    <text x="14" y="94">    }</text>
+    <text x="14" y="112">}</text>
+    <text x="14" y="130">def search(q: str) -&gt; list[Memory]:</text>
+    <text x="14" y="148">    return db.fts(q).limit(budget)</text>
+    <text x="14" y="166">assert plaintext_on_disk() == False</text>
+    <text x="14" y="184">for hook in hooks: hook.run(ctx)</text>
+    <text x="14" y="202">let key = Identity::generate();</text>
+    <text x="14" y="220">// nobody reads this far</text>
+  </g>
+  <polygon points="520,0 900,0 900,240 400,240" fill="url(#tone)"/>
+  <polygon points="640,0 900,0 900,240 545,240" fill="#111"/>
+  <text x="690" y="196" font-size="176" font-family="'Yu Mincho','Noto Serif JP','MS Mincho',serif" fill="#e63946">謎</text>
+  <text x="46" y="120" font-size="84" font-weight="900" font-family="Impact,'Arial Black','Helvetica Neue',Arial,sans-serif" fill="#111">KORONE</text>
+  <text x="50" y="152" font-size="16" font-family="'Courier New',Courier,monospace" fill="#111" letter-spacing="6">FXCKINGANGEL</text>
+  <rect x="50" y="172" width="262" height="40" fill="#111"/>
+  <text x="64" y="189" font-size="13" font-family="'Courier New',Courier,monospace" fill="#f1ece1">$ whoami</text>
+  <text x="64" y="205" font-size="13" font-family="'Courier New',Courier,monospace" fill="#f1ece1">unknown</text>
+  <rect x="128" y="195" width="8" height="12" fill="#e63946"/>
+  <rect x="3" y="3" width="894" height="234" fill="none" stroke="#111" stroke-width="6"/>
+</svg>
