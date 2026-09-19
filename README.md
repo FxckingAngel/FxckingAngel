@@ -1,44 +1,28 @@
-# Korone | FxckingAngel
+<div align="center">
 
-Full-stack developer building web apps, dashboards, security utilities, automation tools, and creator tooling.
+<img src="assets/banner.svg" alt="Korone, FxckingAngel" width="100%">
 
-## About
+</div>
 
-I build practical software: web platforms, dashboards, automation, scripting projects, and small utilities that solve real problems.
+You found the page. Most people don't read this far.
 
-I like projects with clear structure, readable code, useful docs, and setup steps that do not waste the next person's time.
+Nobody knows who I am, and that's fine. I write Rust and Python, I'm good at it, and the repos below are the only introduction. The rest of my time goes to anime.
 
-## Current Focus
+## Projects
 
-- GitHub security and repo hygiene tools
-- web apps and dashboard tools
-- automation scripts and small CLIs
-- small upstream fixes with clear repros
-- Unity and VR work when I am actively using it
+| File | What it is |
+| --- | --- |
+| [envlock](https://github.com/FxckingAngel/envlock) | Rust. Encrypts `.env` files with age. The vault lives in git, plaintext never touches disk, and secrets are injected in memory at runtime. Has a CI/CD bridge. |
+| [memory-forge](https://github.com/FxckingAngel/memory-forge) | Python. A local MCP memory server on SQLite full-text search, so an AI client can save and look up project notes without a cloud database. |
+| [github-security-checkup](https://github.com/FxckingAngel/github-security-checkup) | Python. A small CLI that checks a repo for the usual security mistakes. |
+| [korone-fullbody-tracking](https://github.com/FxckingAngel/korone-fullbody-tracking) | Python. Full-body tracking for VR. |
 
-## Selected Work
+## Stats
 
-- [github-security-checkup](https://github.com/FxckingAngel/github-security-checkup) - small GitHub repository security checkup CLI
-- [github-repo-security-basics](https://github.com/FxckingAngel/github-repo-security-basics) - practical notes for safer GitHub repos
-- [Portfolio Site](https://fxckingangel.github.io/) - personal site and project hub
-- [ClientSim fork](https://github.com/FxckingAngel/ClientSim) - VRChat ClientSim compatibility work
-- [korone-fullbody-tracking](https://github.com/FxckingAngel/korone-fullbody-tracking) - VR/full-body tracking project space
+<img src="assets/stats.svg" alt="Language and activity stats: Python 57.9 percent, Rust 33.0, Shell 5.2, HTML 2.2, CSS 1.5, Batchfile 0.1. 137 public commits, 31 pull requests opened, 19 merged, 11 public repos, 6 years on GitHub." width="100%">
 
-## Stack
+Also written: TypeScript, Next.js, Lua, C# and Unity.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-111?style=flat-square&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-111?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-111?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
-![Node.js](https://img.shields.io/badge/Node.js-111?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![Python](https://img.shields.io/badge/Python-111?style=flat-square&logo=python&logoColor=3776AB)
-![Lua](https://img.shields.io/badge/Lua-111?style=flat-square&logo=lua&logoColor=2C2D72)
-![Roblox Studio](https://img.shields.io/badge/Luau-111?style=flat-square&logo=robloxstudio&logoColor=00A2FF)
-![C%23](https://img.shields.io/badge/C%23-111?style=flat-square&logo=csharp&logoColor=9B4F96)
-![Unity](https://img.shields.io/badge/Unity-111?style=flat-square&logo=unity&logoColor=FFFFFF)
-![GitHub](https://img.shields.io/badge/GitHub_API-111?style=flat-square&logo=github&logoColor=FFFFFF)
+<br>
 
-## Links
-
-- Portfolio: https://fxckingangel.github.io/
-- Repositories: https://github.com/FxckingAngel?tab=repositories
+<sub>hint: your secret little reviewer</sub>
