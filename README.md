@@ -6,7 +6,7 @@
 
 You found the page. Most people don't read this far.
 
-Nobody knows who I am, and that's fine. I write Rust and Python, I'm good at it, and the repos below are the only introduction. The rest of my time goes to anime.
+Rust and Python. An encrypted secrets vault, a local memory server, a repo security scanner, and fixes sent upstream to projects I don't own. That's the introduction.
 
 ## Projects
 
